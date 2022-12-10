@@ -1,0 +1,203 @@
+body{
+      background-color: rgb(153, 145, 145);
+}
+.whole-div{
+    background-color: rgb(216, 201, 183);
+    margin: 0px auto;
+}
+nav{
+    background-color: black;
+    text-align: end;
+    margin-top: 0px; 
+    height: 30px;
+    padding: auto;
+    padding-top: 10px;
+    color: white;
+}
+.best-buy{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 18px;
+    font-size: 12px;
+}
+.offers{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 18px;
+     font-size: 12px;
+}
+.accessories{
+    text-decoration: none;
+    color: white;
+    f
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 18px;
+     font-size: 12px;
+}
+.contact{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 18px;
+     font-size: 12px;
+}
+.about-us{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 18px;
+     font-size: 12px;
+}
+
+.car-image{
+    width: 100%;
+    height: 500px;
+    margin-top: 0px;
+
+}
+hr{
+    border-color: red;
+}
+.product{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: red;
+    
+}
+.p1{
+    margin-bottom: 2px;
+    font-size: 18px;
+    font-weight: bold;
+    
+    
+}
+.p2{
+margin-top: 4px;
+font-size: 14px;
+font-weight: bold;
+margin-bottom: 0px;
+
+
+}
+.div-of-add-to{
+    border-style: solid;
+    margin: 10px auto;
+    padding: 10px 0px;
+    width: 100px;
+    border: none;
+    background-color: rgba(180, 71, 71, 0.3);
+    
+    
+    
+}
+.div-of-add-to:hover{
+    background-color: rgba(133, 128, 128, 0.3);
+    cursor: pointer;
+    border: none;
+    
+}
+.div-of-add-to:active{
+    background-color: rgba(133, 128, 128, 0.015);
+}
+.add-to{
+    margin: 0px;
+    padding: 0px;
+    font-weight: 5px;
+    font-size: 15px;
+    font-family: 'Alkalami';
+    
+}
+.first-role{
+    display: inline-block;
+    
+}
+.second-role{
+    display: inline-block;
+    
+    
+}
+.third-role{
+    display: inline-block;
+
+}
+.cars{
+    text-align: center;
+    margin-top: 10px;
+    
+
+}
+.car-1-div{
+    
+
+}
+.car-2-div{
+
+
+}
+.car-3-div{
+
+}
+.car-4-div{
+    
+}
+.car-5-div{
+
+}
+.car-6-div{
+
+}
+
+.car1{
+    width: 300px;
+    height: 200px;
+    font-family: 'Alkalami';
+    
+    
+
+}
+.car2{
+    width: 300px;
+    height: 200px;
+    font-family: 'Alkalami';
+}    
+.car3{
+    width: 300px;
+    height: 200px;
+    font-family: 'Alkalami';
+}
+.car4{
+    width: 300px;
+    height: 200px;
+    font-family: 'Alkalami';
+}
+.car5{
+    width: 300px;
+    height: 200px;
+    font-family: 'Alkalami';
+}
+.car6{
+    width: 300px;
+    height: 200px;
+    font-family: 'Alkalami';
+}
+
+.more{
+    font-family: 'Alkalami';
+    display: block;
+    text-align: center;
+    color: black;
+    margin: 20px auto;
+    width: 150px;
+}
+.more:hover{
+    text-shadow: 1px 1px 5px black
+}
+.more:active{
+    font-size: 10px;
+}
